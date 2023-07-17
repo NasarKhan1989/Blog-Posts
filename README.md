@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-After Cloning the Project run Yarn for node_modules
+After Cloning the Project `run Yarn` for node_modules
 
 In the project directory, you can run:
 
